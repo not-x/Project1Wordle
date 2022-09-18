@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./Wordle.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./Wordle1b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Share X (https://getsharex.com/) 
 
